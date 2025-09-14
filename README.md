@@ -6,4 +6,4 @@
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,tailwind,react,ts,laravel,androidstudio,arduino,ubuntu,figma,ps&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,tailwind,react,ts,laravel,androidstudio,arduino,ubuntu,figma,ps&theme=light)](https://skillicons.dev)
